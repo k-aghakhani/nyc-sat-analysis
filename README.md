@@ -21,7 +21,7 @@ This project analyzes SAT performance to address three key questions:
 2.  **Which schools rank among the Top 10 overall SAT performers?**
 3.  **Which borough shows the highest variability in SAT performance?**
 
-The analysis uses: - **Pandas** for data cleaning & aggregation\
+The analysis uses: - **Pandas** for data cleaning & aggregation
 - **Matplotlib** / **Seaborn** for clear and compelling visualizations
 
 Dataset Source: NYC Department of Education (via DataCamp)
@@ -43,9 +43,12 @@ Dataset Source: NYC Department of Education (via DataCamp)
   Borough**                                             (Avg: \~1340)**
   -----------------------------------------------------------------------
 
-**Insights:** - Specialized schools lead performance citywide,
-particularly in Math. - Top 10 schools significantly outperform the city
-average. - Manhattan exhibits the widest performance range, indicating
+**Insights:** 
+- Specialized schools lead performance citywide,
+particularly in Math.
+- Top 10 schools significantly outperform the city
+average.
+- Manhattan exhibits the widest performance range, indicating
 unequal school resources and outcomes.
 
 ------------------------------------------------------------------------
@@ -134,7 +137,8 @@ Outputs will be stored in `results/` and `plots/`.
 ## 👨‍💻 Author
 
 **Kiarash Aghakhani**\
-GitHub: https://github.com/k-aghakhani\
+GitHub: https://github.com/k-aghakhani
+Email: kiarash1988@gmail.com
 
 ------------------------------------------------------------------------
 
