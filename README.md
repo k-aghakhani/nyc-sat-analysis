@@ -137,10 +137,11 @@ Outputs will be stored in `results/` and `plots/`.
 ## 👨‍💻 Author
 
 **Kiarash Aghakhani**\
-GitHub: https://github.com/k-aghakhani
-Email: kiarash1988@gmail.com
+-   **GitHub:** https://github.com/k-aghakhani
+-   **Email:** kiarash1988@gmail.com
 
 ------------------------------------------------------------------------
 
 > Built with a passion for educational insight and data-driven
 > storytelling. 🌍📊
+
